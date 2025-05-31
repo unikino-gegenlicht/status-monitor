@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Website Analytics",
+    "url": "https://plausible.gegenlicht.net",
+    "icon": "https://plausible.io/assets/images/icon/favicon-32x32.png",
+    "slug": "website-analytics",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 601,
+    "timeDay": 601,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Identity and Access Management",
     "url": "https://accounts.gegenlicht.net/-/health/ready/",
     "icon": "https://docs.goauthentik.io/img/icon.png",
@@ -36,16 +54,34 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Survey and Form Tool",
+    "url": "https://forms.gegenlicht.net",
+    "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
+    "slug": "survey-and-form-tool",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 807,
+    "timeDay": 807,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Knowledge Base",
     "url": "https://wiki.gegenlicht.net",
     "icon": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png",
     "slug": "knowledge-base",
     "status": "up",
-    "uptime": "64.94%",
-    "uptimeDay": "64.94%",
-    "uptimeWeek": "64.94%",
-    "uptimeMonth": "64.94%",
-    "uptimeYear": "64.94%",
+    "uptime": "77.36%",
+    "uptimeDay": "77.36%",
+    "uptimeWeek": "77.36%",
+    "uptimeMonth": "77.36%",
+    "uptimeYear": "77.36%",
     "time": 1450,
     "timeDay": 1450,
     "timeWeek": 1450,
@@ -74,24 +110,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "E-Mail Groupware",
-    "url": "https://portal.gegenlicht.net",
-    "icon": "https://www.group-office.com/favicon.ico",
-    "slug": "e-mail-groupware",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 848,
-    "timeWeek": 848,
-    "timeMonth": 848,
-    "timeYear": 848,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Ticketing",
     "url": "https://tickets.gegenlicht.net",
     "icon": "https://static.pretix.space/static/pretixbase/img/icons/favicon-16x16.ce949675f6e2.png",
@@ -108,7 +126,7 @@
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-05-31": 35
+      "2025-05-31": 55
     }
   },
   {
@@ -127,6 +145,24 @@
     "timeWeek": 1218,
     "timeMonth": 1218,
     "timeYear": 1218,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "E-Mail Groupware",
+    "url": "https://portal.gegenlicht.net",
+    "icon": "https://www.group-office.com/favicon.ico",
+    "slug": "e-mail-groupware",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 848,
+    "timeDay": 848,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   },
   {
