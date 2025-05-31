@@ -72,7 +72,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/unikino-gegenlicht/status-monitor/refs/heads/master/assets/icon.svg
   name: Unikino GEGENLICHT Status
   introTitle: "Unikino GEGENLICHT"
-  introMessage: "Dein studentisches Kino"
+  introMessage: |
+    Dein studentisches Kino an der Carl von Ossietzky Universität Oldenburg.
+
+    Hier findest du das aktuelle monitoring unserer Services die wir intern und
+    extern anbieten. Sollte etwas mal nicht richtig laufen oder Wartungsarbeiten
+    stattfinden, wird dies hier angezeigt. Sollte ein Service ausnahmsweise 
+    nicht funktionieren und es wir hier nicht angezeigt, dann sage uns bitte
+    bescheid und wir kümmern uns darum.
   navbar:
     - title: Status
       href: /
