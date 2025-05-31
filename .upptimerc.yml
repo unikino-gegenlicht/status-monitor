@@ -10,9 +10,17 @@ sites:
     url: https://gegenlicht.net
     maxResponseTime: 5000
 
+  - name: Website Analytics
+    url: https://plausible.gegenlicht.net
+    icon: https://plausible.io/assets/images/icon/favicon-32x32.png
+
   - name: Identity and Access Management
     url: https://accounts.gegenlicht.net/-/health/ready/
     icon: https://docs.goauthentik.io/img/icon.png
+
+  - name: Survey and Form Tool
+    url: https://forms.gegenlicht.net
+    icon: https://www.limesurvey.org/templates/limesurvey/favicon.ico
 
   - name: Knowledge Base
     url: https://wiki.gegenlicht.net
@@ -23,16 +31,16 @@ sites:
     url: https://terminplaner.gegenlicht.net
     icon: https://rallly.co/favicon.ico
 
-  - name: E-Mail Groupware
-    url: https://portal.gegenlicht.net
-    icon: https://www.group-office.com/favicon.ico
-
   - name: Ticketing
     url: https://tickets.gegenlicht.net
     icon: https://static.pretix.space/static/pretixbase/img/icons/favicon-16x16.ce949675f6e2.png
 
   - name: Mailing List Management
     url: https://lists.gegenlicht.net
+
+  - name: E-Mail Groupware
+    url: https://portal.gegenlicht.net
+    icon: https://www.group-office.com/favicon.ico
 
   - name: IMAP
     check: "tcp-ping"
@@ -59,7 +67,6 @@ sites:
     url: mail.gegenlicht.net
     port: 465
 
-
 status-website:
   cname: status.gegenlicht.net
   logoUrl: https://raw.githubusercontent.com/unikino-gegenlicht/status-monitor/refs/heads/master/assets/icon.svg
@@ -71,6 +78,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
