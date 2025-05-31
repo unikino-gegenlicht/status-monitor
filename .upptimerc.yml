@@ -1,31 +1,70 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: unikino-gegenlicht
+repo: status-monitor
+
+assigninees:
+  - dr4hcu5-jan
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Website
+    url: https://gegenlicht.net
+    maxResponseTime: 5000
+
+  - name: Identity and Access Management
+    url: https://accounts.gegenlicht.net/-/health/ready/
+    icon: https://docs.goauthentik.io/img/icon.png
+
+  - name: Knowledge Base
+    url: https://wiki.gegenlicht.net
+    icon: https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png
+
+  - name: Appointment Planner
+    url: https://terminplaner.gegenlicht.net
+    icon: https://rallly.co/favicon.ico
+
+  - name: E-Mail Groupware
+    url: https://portal.gegenlicht.net
+    icon: https://www.group-office.com/favicon.ico
+
+  - name: Ticketing
+    url: https://tickets.gegenlicht.net
+    icon: https://static.pretix.space/static/pretixbase/img/icons/favicon-16x16.ce949675f6e2.png
+
+  - name: Mailing List Management
+    url: https://lists.gegenlicht.net
+
+  - name: IMAP
     check: "tcp-ping"
-    ipv6: true
+    url: mail.gegenlicht.net
+    port: 143
+
+  - name: IMAP (TLS/SSL)
+    check: "tcp-ping"
+    url: mail.gegenlicht.net
+    port: 993
+
+  - name: SMTP
+    check: "tcp-ping"
+    url: mail.gegenlicht.net
+    port: 25
+
+  - name: SMTP (explicit TLS)
+    check: "tcp-ping"
+    url: mail.gegenlicht.net
+    port: 587
+
+  - name: SMTP (implicit SSL)
+    check: "tcp-ping"
+    url: mail.gegenlicht.net
+    port: 465
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.gegenlicht.net
+  logoUrl: https://raw.githubusercontent.com/unikino-gegenlicht/status-monitor/refs/heads/master/assets/icon.svg
+  name: Unikino GEGENLICHT Status
+  introTitle: "Unikino GEGENLICHT"
+  introMessage: "Dein studentisches Kino"
   navbar:
     - title: Status
       href: /
