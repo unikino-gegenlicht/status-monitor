@@ -40,18 +40,20 @@
     "url": "https://wiki.gegenlicht.net",
     "icon": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png",
     "slug": "knowledge-base",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 896,
     "timeDay": 896,
     "timeWeek": 896,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   },
   {
     "name": "Appointment Planner",
@@ -95,18 +97,18 @@
     "icon": "https://static.pretix.space/static/pretixbase/img/icons/favicon-16x16.ce949675f6e2.png",
     "slug": "ticketing",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 486,
     "timeDay": 486,
     "timeWeek": 486,
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-05-31": 0
+      "2025-05-31": 20
     }
   },
   {
