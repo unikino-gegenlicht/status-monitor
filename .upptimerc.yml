@@ -12,7 +12,6 @@ sites:
 
   - name: Website Analytics
     url: https://plausible.gegenlicht.net
-    icon: https://plausible.io/assets/images/icon/favicon-32x32.png
 
   - name: Identity and Access Management
     url: https://accounts.gegenlicht.net/-/health/ready/
@@ -69,7 +68,7 @@ sites:
 
 status-website:
   cname: status.gegenlicht.net
-  logoUrl: https://raw.githubusercontent.com/unikino-gegenlicht/status-monitor/refs/heads/master/assets/icon.svg
+  logoUrl: https://raw.githubusercontent.com/unikino-gegenlicht/status-monitor/refs/heads/master/assets/logo.svg
   name: Unikino GEGENLICHT Status
   introTitle: "Unikino GEGENLICHT"
   introMessage: |
