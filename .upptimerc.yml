@@ -17,6 +17,9 @@ sites:
   - name: Knowledge Base
     url: https://wiki.gegenlicht.net
     icon: https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png
+    expectedStatusCodes:
+      - 200
+      - 302
 
   - name: Appointment Planner
     url: https://terminplaner.gegenlicht.net
