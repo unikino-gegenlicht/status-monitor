@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.gegenlicht.net.ico",
     "slug": "website-analytics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
     "time": 1024,
     "timeDay": 982,
     "timeWeek": 1256,
     "timeMonth": 1244,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2025-07-25": 1
+      "2025-07-25": 39
     }
   },
   {
@@ -60,9 +60,9 @@
     "url": "https://forms.gegenlicht.net",
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "survey-and-form-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 3004,
     "timeMonth": 3082,
     "timeYear": 2279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "Knowledge Base",
@@ -98,9 +100,9 @@
     "url": "https://terminplaner.gegenlicht.net",
     "icon": "https://rallly.co/favicon.ico",
     "slug": "appointment-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +111,9 @@
     "timeWeek": 5683,
     "timeMonth": 5268,
     "timeYear": 3752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "Ticketing",
@@ -155,9 +159,9 @@
     "url": "https://portal.gegenlicht.net",
     "icon": "https://www.group-office.com/favicon.ico",
     "slug": "e-mail-groupware",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,7 +170,9 @@
     "timeWeek": 1763,
     "timeMonth": 1587,
     "timeYear": 1257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "IMAP",
