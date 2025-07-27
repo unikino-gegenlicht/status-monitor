@@ -10,9 +10,6 @@ sites:
     url: https://gegenlicht.net
     maxResponseTime: 5000
 
-  - name: Website Analytics
-    url: https://plausible.gegenlicht.net
-
   - name: Identity and Access Management
     url: https://accounts.gegenlicht.net/-/health/ready/
     icon: https://docs.goauthentik.io/img/icon.png
