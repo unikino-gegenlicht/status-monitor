@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gegenlicht.net.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 2011,
     "timeDay": 2835,
     "timeWeek": 1993,
     "timeMonth": 2051,
     "timeYear": 2011,
     "dailyMinutesDown": {
-      "2025-08-14": 2
+      "2025-08-14": 28
     }
   },
   {
@@ -64,10 +64,10 @@
     "url": "https://wiki.gegenlicht.net",
     "icon": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png",
     "slug": "knowledge-base",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3697,
@@ -76,6 +76,7 @@
     "timeMonth": 3754,
     "timeYear": 3697,
     "dailyMinutesDown": {
+      "2025-08-14": 2,
       "2025-05-31": 12
     }
   },
@@ -146,18 +147,18 @@
     "icon": "https://www.group-office.com/favicon.ico",
     "slug": "e-mail-groupware",
     "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "98.91%",
+    "uptime": "98.88%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.88%",
     "time": 1126,
     "timeDay": 1104,
     "timeWeek": 1017,
     "timeMonth": 1088,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-08-14": 0,
+      "2025-08-14": 26,
       "2025-07-27": 3,
       "2025-07-26": 951,
       "2025-07-25": 221
