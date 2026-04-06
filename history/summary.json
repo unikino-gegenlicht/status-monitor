@@ -4,10 +4,10 @@
     "url": "https://gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/gegenlicht.net.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.81%",
     "time": 1620,
@@ -16,6 +16,7 @@
     "timeMonth": 1439,
     "timeYear": 1620,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2026-03-21": 33,
       "2026-03-18": 131,
       "2026-03-14": 21,
@@ -31,10 +32,10 @@
     "url": "https://accounts.gegenlicht.net/-/health/ready/",
     "icon": "https://docs.goauthentik.io/img/icon.png",
     "slug": "identity-and-access-management",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
@@ -42,17 +43,19 @@
     "timeWeek": 713,
     "timeMonth": 742,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 1
+    }
   },
   {
     "name": "Survey and Form Tool",
     "url": "https://forms.gegenlicht.net",
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "survey-and-form-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "92.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "92.77%",
     "time": 1372,
@@ -61,6 +64,7 @@
     "timeMonth": 1239,
     "timeYear": 1372,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2026-03-21": 32,
       "2026-03-14": 20,
       "2026-02-03": 56,
@@ -98,11 +102,11 @@
     "url": "https://wiki.gegenlicht.net",
     "icon": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png",
     "slug": "knowledge-base",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
     "time": 2343,
     "timeDay": 1411,
@@ -110,6 +114,7 @@
     "timeMonth": 1723,
     "timeYear": 2343,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2026-03-21": 30,
       "2026-03-14": 18,
       "2026-03-06": 24,
@@ -125,10 +130,10 @@
     "url": "https://terminplaner.gegenlicht.net",
     "icon": "https://rallly.co/favicon.ico",
     "slug": "appointment-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "92.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.81%",
     "time": 2002,
@@ -137,6 +142,7 @@
     "timeMonth": 1131,
     "timeYear": 2002,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2025-12-14": 16,
       "2025-10-05": 631,
       "2025-10-04": 1440,
@@ -170,10 +176,10 @@
     "url": "https://tickets.gegenlicht.net",
     "icon": "https://static.pretix.space/static/pretixbase/img/icons/favicon-16x16.ce949675f6e2.png",
     "slug": "ticketing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1493,
@@ -182,6 +188,7 @@
     "timeMonth": 1965,
     "timeYear": 1493,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2025-12-14": 16,
       "2025-09-14": 106,
       "2025-06-01": 683,
@@ -193,10 +200,10 @@
     "url": "https://lists.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/lists.gegenlicht.net.ico",
     "slug": "mailing-list-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 2436,
@@ -205,6 +212,7 @@
     "timeMonth": 1588,
     "timeYear": 2436,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2025-12-14": 16,
       "2025-09-15": 653,
       "2025-09-14": 332
@@ -215,10 +223,10 @@
     "url": "https://portal.gegenlicht.net",
     "icon": "https://www.group-office.com/favicon.ico",
     "slug": "e-mail-groupware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.61%",
     "time": 859,
@@ -227,6 +235,7 @@
     "timeMonth": 632,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2026-04-06": 1,
       "2026-03-14": 17,
       "2025-08-14": 542,
       "2025-07-27": 3,
@@ -239,9 +248,9 @@
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,16 +259,18 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   },
   {
     "name": "IMAP (TLS/SSL)",
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap-tls-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -268,16 +279,18 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   },
   {
     "name": "SMTP",
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -286,16 +299,18 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   },
   {
     "name": "SMTP (explicit TLS)",
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-explicit-tls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -304,16 +319,18 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   },
   {
     "name": "SMTP (implicit SSL)",
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-implicit-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -322,6 +339,8 @@
     "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-06": 0
+    }
   }
 ]
