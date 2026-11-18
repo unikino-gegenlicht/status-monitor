@@ -56,7 +56,7 @@
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "survey-and-form-tool",
     "status": "up",
-    "uptime": "94.88%",
+    "uptime": "94.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -271,20 +271,21 @@
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "97.63%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.62%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.94%",
     "time": 142,
-    "timeDay": 145,
+    "timeDay": 169,
     "timeWeek": 142,
     "timeMonth": 139,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-04-06": 51,
-      "2026-11-17": 239
+      "2026-11-17": 239,
+      "2026-11-18": 1
     }
   },
   {
