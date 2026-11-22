@@ -115,7 +115,7 @@
     "icon": "https://rallly.co/favicon.ico",
     "slug": "appointment-planner",
     "status": "up",
-    "uptime": "91.19%",
+    "uptime": "91.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -271,10 +271,10 @@
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "87.43%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "87.42%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "99.75%",
     "time": 142,
@@ -287,7 +287,7 @@
       "2026-11-17": 239,
       "2026-11-18": 359,
       "2026-11-19": 546,
-      "2026-11-22": 124
+      "2026-11-22": 125
     }
   },
   {
