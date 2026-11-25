@@ -87,7 +87,7 @@
     "icon": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/logo.png",
     "slug": "knowledge-base",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -115,7 +115,7 @@
     "icon": "https://rallly.co/favicon.ico",
     "slug": "appointment-planner",
     "status": "up",
-    "uptime": "91.24%",
+    "uptime": "91.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -271,10 +271,10 @@
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "82.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "83.95%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "99.62%",
     "time": 142,
@@ -288,7 +288,8 @@
       "2026-11-18": 359,
       "2026-11-19": 546,
       "2026-11-22": 457,
-      "2026-11-23": 363
+      "2026-11-23": 363,
+      "2026-11-25": 1
     }
   },
   {
