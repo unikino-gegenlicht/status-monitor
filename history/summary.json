@@ -14,7 +14,7 @@
     "timeDay": 1244,
     "timeWeek": 1240,
     "timeMonth": 1312,
-    "timeYear": 1339,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2026-02-03": 58,
       "2026-03-14": 21,
@@ -44,8 +44,8 @@
     "time": 808,
     "timeDay": 737,
     "timeWeek": 761,
-    "timeMonth": 765,
-    "timeYear": 806,
+    "timeMonth": 760,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2026-04-06": 51
     }
@@ -56,7 +56,7 @@
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "survey-and-form-tool",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -64,7 +64,7 @@
     "time": 1174,
     "timeDay": 1286,
     "timeWeek": 1330,
-    "timeMonth": 1379,
+    "timeMonth": 1356,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2026-01-05": 51,
@@ -95,8 +95,8 @@
     "time": 2189,
     "timeDay": 3052,
     "timeWeek": 2631,
-    "timeMonth": 2670,
-    "timeYear": 2268,
+    "timeMonth": 2664,
+    "timeYear": 2270,
     "dailyMinutesDown": {
       "2026-02-03": 55,
       "2026-03-06": 24,
@@ -123,8 +123,8 @@
     "time": 1325,
     "timeDay": 1603,
     "timeWeek": 1693,
-    "timeMonth": 1768,
-    "timeYear": 1281,
+    "timeMonth": 1765,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2025-12-14": 16,
       "2026-04-06": 51,
@@ -171,7 +171,7 @@
     "timeDay": 1058,
     "timeWeek": 1037,
     "timeMonth": 1104,
-    "timeYear": 1663,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2025-12-14": 16,
       "2026-04-06": 51,
@@ -198,8 +198,8 @@
     "time": 1540,
     "timeDay": 3073,
     "timeWeek": 1971,
-    "timeMonth": 1397,
-    "timeYear": 1555,
+    "timeMonth": 1407,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-12-14": 16,
       "2026-04-06": 51
@@ -220,7 +220,7 @@
     "timeDay": 615,
     "timeWeek": 630,
     "timeMonth": 633,
-    "timeYear": 644,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2026-03-14": 17,
       "2026-04-06": 51
@@ -271,14 +271,14 @@
     "url": "mail.gegenlicht.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "83.95%",
-    "uptimeMonth": "95.52%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "71.17%",
+    "uptimeWeek": "82.33%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "99.54%",
     "time": 142,
-    "timeDay": 130,
+    "timeDay": 153,
     "timeWeek": 145,
     "timeMonth": 139,
     "timeYear": 143,
@@ -289,7 +289,8 @@
       "2026-11-19": 546,
       "2026-11-22": 457,
       "2026-11-23": 363,
-      "2026-11-25": 1
+      "2026-11-26": 131,
+      "2026-11-25": 284
     }
   },
   {
